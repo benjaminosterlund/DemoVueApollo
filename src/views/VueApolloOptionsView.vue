@@ -53,11 +53,9 @@ export default {
     <div>
         <h1>Vue Apollo - Options</h1>
 
-            <p>This View uses <a href="https://www.npmjs.com/package/vue-apollo">@vue/apollo-option</a></p>
+            <p>This View uses <a href="  https://www.npmjs.com/package/@vue/apollo-option">@vue/apollo-option</a></p>
 
   
-        <div v-if="$apollo.loading">Something is loading...</div>
-
         <button @click="incrementPostId">Get Next Post From API</button>
 
         <hr>
